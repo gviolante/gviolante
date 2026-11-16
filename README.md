@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-violante/">
+  <a href="https://gviolante.github.io/#home">
     <img src="./Gabriel%20Violante_%20Tech%20Portfolio%20Banner.png" alt="Gabriel Violante — Computer Science student & Machine Learning Researcher" width="100%" />
   </a>
 </p>
