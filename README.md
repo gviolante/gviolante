@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Hi 👋, my name's Gabriel!!! I'm a Computer Science student & ML researcher who loves AI and solving real-world problems</h2>
+<h2 align="center">Hi 👋, my name's Gabriel! I'm a Computer Science student & ML researcher who loves AI and solving real-world problems</h2>
 
 <p align="center">
 I'm a self-driven Computer Science undergraduate at <b>UFMG</b> and a Machine Learning researcher at <b>VeRLab</b>, with a diverse skillset spanning applied AI, software engineering, and systems integration. I coded my first full projects and games way back in technical high school at <b>COLTEC/UFMG</b>, where I coauthored my first paper at age 17, and have continued to explore more tech ever since, from academic research in machine learning and <b>TinyML</b> to hackathons and full-stack development with AI agents.
